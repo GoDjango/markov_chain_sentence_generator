@@ -1,2 +1,6 @@
-# markov_chain_sentence_generator
-Markov chain sentence generator
+# Markov Chain Sentence Generator
+
+In progress
+
+links:
+- https://habr.com/ru/post/510798/
